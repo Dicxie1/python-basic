@@ -1,0 +1,6 @@
+# configuration of ignore list for pyCharm
+
+# directory
+venv/
+.idea/
+
