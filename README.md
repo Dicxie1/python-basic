@@ -1,6 +1,6 @@
 # Python sintax example 
 
-| FirstName     | LastName      | City     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| Filename      | descripcion      |
+| ------------- | ---------------- |
+| ![01helloworld.py](Basic/01helloworld.py)          | Test1         |
+| Bob           | Test2         |
